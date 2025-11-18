@@ -57,10 +57,6 @@ Open-source web development projects, UI/UX designs, MERN stack apps
 ## 📫 How to reach me
 Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahmmed-2a746a163/">LinkedIn</a>
 
----
-
-## 👨‍💻 All of my projects
-[Portfolio](https://your-portfolio.com)
 
 ---
 
