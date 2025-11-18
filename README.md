@@ -81,20 +81,26 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="49%" style="vertical-align:top;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" style="vertical-align:top;"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=radical&hide=html" alt="Top Languages" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" alt="GitHub Streak" width="49%"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Game
 <p align="center">
-![Snake animation](https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="600"/>
 </p>
+
 
 ---
