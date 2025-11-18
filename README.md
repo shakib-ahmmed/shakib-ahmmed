@@ -70,13 +70,12 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 
 <!-- Frontend -->
 <strong>Frontend:</strong><br/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="React Router" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
@@ -112,19 +111,22 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 <br/><br/>
 
 <!-- Programming Languages -->
-<strong>Languages:</strong><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/cpp-4.svg" alt="C++" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C" width="40" height="40"/>
-<br/><br/>
+<strong>Languages & Frameworks:</strong><br/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="React Router" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
 
-<!-- Misc / Other -->
+<!-- Misc / Hardware -->
 <strong>Misc / Hardware:</strong><br/>
 <img src="https://cdn.worldvectorlogo.com/logos/blender-3.svg" alt="Blender" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
 </p>
+
 
 ---
 
