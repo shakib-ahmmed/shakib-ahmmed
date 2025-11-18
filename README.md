@@ -96,35 +96,39 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 <br/><br/>
 
 <!-- Dev Tools -->
-<strong>Dev & Version Control:</strong><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm-icon.svg" alt="npm" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="Webpack" width="40" height="40"/>
-<br/><br/>
+### 💻 Dev & Version Control
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" height="40"/>
+</p>
 
-<!-- UI/UX Tools -->
-<strong>UI/UX Tools:</strong><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-1.svg" alt="Illustrator" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-1.svg" alt="Photoshop" width="40" height="40"/>
-<br/><br/>
+### 🎨 UI/UX Tools
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cc.svg" alt="Photoshop" width="40" height="40"/>
+</p>
 
-<!-- Programming Languages -->
-<strong>Languages & Frameworks:</strong><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="React Router" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
+### 🖥️ Languages & Frameworks
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="React Router DOM" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40"/>
+</p>
 
-<!-- Misc / Hardware -->
-<strong>Misc / Hardware:</strong><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/blender-3.svg" alt="Blender" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
+### ⚙️ Misc / Hardware
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/blender-3.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
+</p>
+ctorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
 </p>
 
 
