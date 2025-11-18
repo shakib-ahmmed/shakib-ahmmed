@@ -143,22 +143,8 @@ ctorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
 
 
 ---
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact" alt="shakib-ahmmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&locale=en" alt="shakib-ahmmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&" alt="shakib-ahmmed" /></p>
-
-
-<!-- Contributions in Snake Style -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shakib-ahmmed/shakib-ahmmed/main/snake-contrib.svg" alt="Snake Contributions" width="800"/>
 </p>
-
 
 ---
