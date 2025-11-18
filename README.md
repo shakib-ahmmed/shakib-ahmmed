@@ -1,95 +1,51 @@
-👋 Hi, I'm Shakib Ahmmed
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Frontend+%2B+Backend+Engineer;Clean+UI+%7C+Modern+Web+Apps;Always+Learning+%26+Building" /> </p>
-🚀 About Me
+<h1 align="center">Hi 👋, I'm Shakib Ahmmed</h1>
+<h3 align="center">I’m a Front End Web Developer focused on building clean, modern, and scalable applications using the MERN stack. I love crafting smooth UI, fast APIs, and intuitive user experiences.</h3>
 
-I’m a Front End Web Developer focused on building clean, modern, and scalable applications using the MERN stack.
-I love crafting smooth UI, fast APIs, and intuitive user experiences.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- Add your social links here -->
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/></a>
+<a href="https://twitter.com/your-twitter" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" width="30" height="30"/></a>
+<a href="mailto:example@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="30" height="30"/></a>
+</p>
 
-💻 MERN Stack Developer
+<h3 align="left">🔭 I’m currently working on</h3>
+<ul>
+<li><a href="https://github.com/shakib-ahmmed/home-nest">Home Nest</a> – Modern real estate web app.</li>
+</ul>
 
-🎨 Frontend: Responsive UI, Tailwind, Animations
+<h3 align="left">👯 I’m looking to collaborate on</h3>
+<ul>
+<li><a href="https://github.com/shakib-ahmmed/plant-shop-ui">Plant Shop UI</a> – Responsive plant e-commerce UI built with React and TailwindCSS.</li>
+</ul>
 
-⚙️ Backend: REST APIs, Auth, MongoDB
+<h3 align="left">🤝 I’m looking for help with</h3>
+<ul>
+<li><a href="https://github.com/shakib-ahmmed/app-oi">App-oi</a> – Sleek web application project.</li>
+</ul>
 
-🧩 Clean code • Reusable components • Modern architecture
+<h3 align="left">🌱 I’m currently learning</h3>
+<p>ReactJS, Vue.js, GSAP, TailwindCSS, Next.js</p>
 
-📚 Currently learning: Next.js + TypeScript
+<h3 align="left">💬 Ask me about</h3>
+<p>React, Vue, GSAP, JavaScript, Frontend Development</p>
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite" /> <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,figma,linux" /> </p>
-📌 Featured Projects
-🏡 Home Nest — Real Estate MERN App
+<h3 align="left">📫 How to reach me</h3>
+<p>Email: example@gmail.com | <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a></p>
 
-Property CRUD
+<h3 align="left">👨‍💻 All of my projects are available at</h3>
+<p><a href="https://your-portfolio.com">Portfolio</a></p>
 
-Search + filter + sort
+<h3 align="left">📝 I regularly write articles on</h3>
+<p><a href="https://your-blog-link.com">Blog</a></p>
 
-Firebase authentication
+<h3 align="left">📄 Know about my experiences</h3>
+<p><a href="https://your-resume-link.com">Resume</a></p>
 
-React + Node + MongoDB backend
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+</p>
 
-🛒 Plant Shop UI — React + Tailwind
-
-Full responsive layout
-
-Smooth animations (Framer Motion)
-
-Modern component design
-
-Multi-section homepage
-
-⚙️ MongoDB REST API
-
-Express router structure
-
-Error handling middleware
-
-Optimized CRUD operations
-
-Easy integration with React apps
-
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🐍 Contribution Snake
-
-![snake gif](https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg)
----
-
-## 🚀 Projects
-
-### 1. [Home Nest](https://github.com/shakib-ahmmed/home-nest)
-A modern real estate web application showcasing property listings with search, filter, and details pages.
-
-### 2. [Plant Shop UI](https://github.com/shakib-ahmmed/plant-shop-ui)
-A responsive plant e-commerce UI built with React and TailwindCSS.
-
-### 3. [App-oi](https://github.com/shakib-ahmmed/app-oi)
-A sleek web application project (brief description).
-
----
-
-## 🛠 Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) 
-[Portfolio](https://your-portfolio.com)
-
-
----
-
-⭐ Tools Used
-
-Profile generators: GPRM, Jain's Readme Generator
-
-Icons: Skill Icons
-
-Typing banner: Readme Typing SVG
-
-Snake game: GitHub Actions
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact" alt="shakib-ahmmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&locale=en" alt="shakib-ahmmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&" alt="shakib-ahmmed" /></p>
