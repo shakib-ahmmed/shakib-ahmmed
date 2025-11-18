@@ -142,7 +142,8 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 
 <!-- Contributions in Snake Style -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake-contributions/main/generated/github-contribution-grid-snake.svg" alt="Snake Contributions" />
+  <img src="https://raw.githubusercontent.com/shakib-ahmmed/shakib-ahmmed/main/snake-contrib.svg" alt="Snake Contributions" width="800"/>
 </p>
+
 
 ---
