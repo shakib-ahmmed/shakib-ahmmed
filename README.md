@@ -119,14 +119,11 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 
 ### ⚙️ Misc / Hardware
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/blender-3.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" alt="Blender" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/photoshop.svg" alt="Photoshop" width="40" height="40"/>
 </p>
-ctorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
-</p>
-
 
 ---
 
