@@ -81,19 +81,19 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="49%" style="margin-right:1%" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact&theme=radical" width="49%" style="margin-right:1%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" width="49%"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" width="70%"/>
 </p>
-
 
 ---
 
+## 🐍 Contribution Snake Game
+<p align="center">
+![Snake animation](https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg)
+</p>
 
+---
