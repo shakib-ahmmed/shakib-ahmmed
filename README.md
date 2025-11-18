@@ -82,6 +82,8 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-ahmmed&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakib-ahmmed" />
+
+  </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" alt="GitHub Streak"/>
 </p>
