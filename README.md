@@ -142,17 +142,17 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
   <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-ahmmed&theme=radical" alt="GitHub Streak" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Game
+<!-- Contributions in Snake Style -->
 <p align="center">
-  <img src="https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="600"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake-contributions/main/generated/github-contribution-grid-snake.svg" alt="Snake Contributions" />
 </p>
-
 
 ---
