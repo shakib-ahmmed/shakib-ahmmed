@@ -67,13 +67,49 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 ## 🌱 Skills & Tools
 
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="js" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/>
+<!-- Frontend -->
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
+
+<!-- Backend -->
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nestjs-1.svg" alt="NestJS" width="40" height="40"/>
+
+<!-- Databases -->
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
+
+<!-- Dev & Version Control -->
+<img src="https://cdn.worldvectorlogo.com/logos/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm-icon.svg" alt="npm" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="Webpack" width="40" height="40"/>
+
+<!-- UI/UX Tools -->
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-1.svg" alt="Illustrator" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-1.svg" alt="Photoshop" width="40" height="40"/>
+
+<!-- Programming Languages -->
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/cpp-4.svg" alt="C++" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C" width="40" height="40"/>
+
+<!-- Misc / Other -->
+<img src="https://cdn.worldvectorlogo.com/logos/blender-3.svg" alt="Blender" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
 </p>
 
 ---
