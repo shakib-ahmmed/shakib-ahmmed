@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shakib Ahmmed</h1>
 
 <h1 align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;UI+Lover&center=true&size=24)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;UI+Lover&center=true&size=24)
+
 </h1>
 
 <p align="center">
