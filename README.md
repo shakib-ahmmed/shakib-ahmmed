@@ -51,6 +51,7 @@ Easy integration with React apps
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🐍 Contribution Snake
+
 ![snake gif](https://github.com/shakib-ahmmed/shakib-ahmmed/blob/output/github-contribution-grid-snake.svg)
 ---
 
@@ -77,7 +78,12 @@ A sleek web application project (brief description).
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin) 
+[Portfolio](https://your-portfolio.com)
+
+
+---
+
 ⭐ Tools Used
 
 Profile generators: GPRM, Jain's Readme Generator
