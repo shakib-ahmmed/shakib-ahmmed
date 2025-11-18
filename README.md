@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shakib Ahmmed</h1>
 
-
+<h1 align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;UI+Lover&center=true&size=24)
 
-
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakib-ahmmed-2a746a163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
