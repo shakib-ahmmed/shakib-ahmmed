@@ -133,11 +133,10 @@ Email: shakibahmmed1@gmail.com | <a href="https://www.linkedin.com/in/shakib-ahm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=radical&hide=html" alt="Top Languages" width="400"/>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=radical&hide=html" alt="Top Languages" width="350" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=radical" alt="GitHub Stats" width="350" style="display:inline-block;"/>
 </p>
+
 
 ---
 
