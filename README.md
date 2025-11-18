@@ -13,9 +13,46 @@
 </p>
 
 ---
-# 💫 About Me:
- I’m currently working on<br>🏠 Home Nest<br>Modern real estate web app with search, filters, and property details.<br><br>🌱 I’m currently learning<br>React, Vue.js, GSAP, TailwindCSS, Next.js<br><br>💬 Ask me about<br>React, Vue, GSAP, JavaScript, Frontend Development<br><br>🤝 I’m looking to collaborate on<br>Open-source web development projects, UI/UX designs, MERN stack apps<br><br>
+Coder, tinkerer, and drone enthusiast 🚀 | MERN stack web apps by day, IoT and Raspberry Pi experiments by night | Making software meet the real world.
 
+---
+
+## 🚀 *What I Do*
+- 💻 Build responsive & modern interfaces using *React.js*
+- 🛠️ Develop secure backend APIs with *Node.js & Express*
+- 🗄️ Work with *MongoDB* for scalable data handling
+- 🔧 Experiment with *hardware integrations* (FPV, object tracking, automation)
+
+---
+
+## 🌱 *Currently Exploring*
+- ☁️ Cloud deployment & full-stack optimization  
+- 📡 Real-time systems (tracking, streaming, automation)  
+- 🧠 Advanced MERN architecture & API performance  
+
+---
+
+## 🤝 *Open For*
+- MERN Stack collaborations  
+- API-based projects
+- Full Stack Web build
+- Font End Web Development
+- IoT / drone / hardware-connected applications  
+- Debugging, optimization & system improvements  
+
+---
+
+## ✨ *A Little About Me*
+- 🌙 Night-time coding is my superpower  
+- ☕ A Cup of tea give me superpower to code 
+- 📚 I learn something new every day  
+- 🛠 Love fixing, building & experimenting with tech  
+
+---
+
+### 🚀 Always building. Always learning. Always improving.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakib-ahmmed-2a746a163?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
