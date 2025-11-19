@@ -29,7 +29,7 @@ Coder, tinkerer, and web application enthusiast 🚀 | MERN stack web apps by da
 
 ---
 
-##🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - Cloud deployment workflows and full-stack performance optimization
 - Advanced MERN architecture, scalable API design, and system reliability
