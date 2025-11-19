@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shakib Ahmmed</h1>
 
 <h1 align="center">
