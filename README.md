@@ -13,7 +13,7 @@
 </p>
 
 ---
-Coder, tinkerer, and drone enthusiast 🚀 | MERN stack web apps by day, IoT and Raspberry Pi experiments by night | Making web application meet the real world.
+Coder, tinkerer, and web application enthusiast 🚀 | MERN stack web apps by day, IoT and Raspberry Pi experiments by night | Making web application meet the real world.
 
 ---
 
