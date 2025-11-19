@@ -29,10 +29,14 @@ Coder, tinkerer, and web application enthusiast 🚀 | MERN stack web apps by da
 
 ---
 
-## 🌱 *Currently Exploring*
-- ☁️ Cloud deployment & full-stack optimization  
-- 📡 Real-time systems (tracking, streaming, automation)  
-- 🧠 Advanced MERN architecture & API performance  
+🌱 Currently Exploring
+
+- Cloud deployment workflows and full-stack performance optimization
+- Advanced MERN architecture, scalable API design, and system reliability
+- Microservices and distributed application patterns
+- Secure authentication mechanisms, including JWT- and OAuth-based authorization
+-High-efficiency frontend development with React, state management, and caching strategies
+
 
 ---
 
