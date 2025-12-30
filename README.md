@@ -109,14 +109,13 @@ Coder, tinkerer, and web application enthusiast 🚀 | MERN stack web apps by da
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=dark&cache_seconds=1800)
-
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shakib-ahmmed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=dark&cache_seconds=1800)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=shakib-ahmmed&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=dark&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=shakib-ahmmed&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shakib-ahmmed&theme=radical&margin-w=10)
+
 
 
 ---
