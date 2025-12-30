@@ -1,1 +1,23 @@
+name: Github Contribution Snake
+permissions:
+  contents: write
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate Snake
+        uses: DenverCoder1/github-readme-snake-contributions@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: shakib-ahmmed
+          file: snake-contrib.svg
+          color: '00ff00'
+          background: '0d1117'
