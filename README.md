@@ -114,8 +114,7 @@ Coder, tinkerer, and web application enthusiast 🚀 | MERN stack web apps by da
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-ahmmed&layout=compact&theme=dark&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib-ahmmed&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=shakib-ahmmed&theme=dark)
+https://github-readme-stats.vercel.app/api?username=shakib-ahmmed
 
 
 
